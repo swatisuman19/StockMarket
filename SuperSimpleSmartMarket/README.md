@@ -25,15 +25,11 @@ This is a maven project, so you can run these 2 goals:
 
 
 #Classes
-* com.jpmorgan.HomeAssignment.SuperSmartMarket.App -> Just a sample app using the main classes Stock and GBCE
-* com.jpmorgan.HomeAssignment.SuperSmartMarket.GBCE -> Class used to calculate the All Share Index
-* com.jpmorgan.HomeAssignment.SuperSmartMarket.Stock -> Class used to manage the operations against the stocks
-* com.jpmorgan.HomeAssignment.SuperSmartMarket.Trade -> Just a bean representing each trade
+* com.jpmorgan.HomeAssignment.SuperSimpleSmartMarket.App -> Just a sample app using the main classes Stock and GBCE
+* com.jpmorgan.HomeAssignment.SuperSimpleSmartMarket.GBCE -> Class used to calculate the All Share Index
+* com.jpmorgan.HomeAssignment.SuperSimpleSmartMarket.Stock -> Class used to manage the operations against the stocks
+* com.jpmorgan.HomeAssignment.SuperSimpleSmartMarket.Trade -> Just a bean representing each trade
 
 #Packages
 * com.jpmorgan.HomeAssignment.SuperSmartMarket-> The main project package
 * com.jpmorgan.eHomeAssignment.SuperSmartMarket.enums -> Package containing some enums needed 
-# SuperSmartMarket
-# SuperSmartMarket
-# SuperSmartMarket
-# SimpleStockMarket
